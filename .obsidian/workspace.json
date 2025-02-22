@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "fddb003addc00e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "817e1ee183ee26a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a02c35cb5f897a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "game info/general.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "general"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37e48f639e8c894c",
+    "type": "split",
+    "children": [
+      {
+        "id": "563c87ef5c12a801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241730d1294f98f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c8f6c029a575160",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4c05c098c5cd786",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "e4b35a36a2a8ddaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb5696fa65589c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34f72aed87ef8c5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "game info/general.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for general"
+            }
+          },
+          {
+            "id": "f4402c5d885368ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "game info/general.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from general"
+            }
+          },
+          {
+            "id": "6e671a9caca6fd12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59ec2e61ae837475",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "game info/general.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of general"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "canvas:Create new canvas": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "5a02c35cb5f897a3",
+  "lastOpenFiles": [
+    "game info/graphics.md",
+    "game info/gameplay.md",
+    "game info/general.md",
+    "Web Clipper/Any good examples of a Zettelkasten in Obsidian.md",
+    "Web Clipper/Any good examples of a Zettelkasten in Obsidian 1.md",
+    "Clippings/Web Clipper Interpreter.md",
+    "Web Clipper",
+    "Clippings",
+    "Excalidraw/Drawing 2025-02-22 19.36.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-22 19.35.42.excalidraw.md",
+    "Excalidraw",
+    "game info/Untitled.canvas",
+    "game info/castle.md",
+    "game info/profession.md",
+    "Untitled.md",
+    "Untitled",
+    "2025-02-22.md",
+    "Untitled Kanban.md",
+    "images/fae7e5db8202972df1f3bcc904e452af.jpg",
+    "images/octopath-traveler-2.jpg",
+    "images/sn7z09eqe3n71.jpg",
+    "images/fae7e5db8202972df1f3bcc904e452af.jpg.crdownload",
+    "images/pixel-art-dark-fantasy-castle-ruin_1015255-152544.avif",
+    "images/pixel-art-dark-fantasy-castle-ruin_1015255-152544.avif.crdownload",
+    "images/sn7z09eqe3n71.jpg.crdownload",
+    "images/Octopath_Traveler_Clearbrook-1200x600.jpg",
+    "images/Octopath-Traveler-II-Review-1-scaled.jpg",
+    "images/octopath-traveler-2.jpg.crdownload",
+    "images/images.jpg",
+    "images/images.jpg.crdownload",
+    "images/Octopath-Traveler-II-Review-1-scaled.jpg.crdownload",
+    "Welcome.md",
+    "2025-02-20.md",
+    "testf.md",
+    "asdf.md",
+    "create a link.md"
+  ]
+}
