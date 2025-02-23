@@ -31,6 +31,12 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "game info": "LiGamepad",
-  "images": "LiImages"
+  "game info": {
+    "iconName": "LiGamepad",
+    "iconColor": "#00e1ff"
+  },
+  "images": {
+    "iconName": "LiImages",
+    "iconColor": "#8c3b3b"
+  }
 }
