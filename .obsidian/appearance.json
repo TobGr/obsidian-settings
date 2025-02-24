@@ -4,5 +4,7 @@
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Arial",
   "baseFontSize": 16,
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Tokyo Night",
+  "showViewHeader": true,
+  "showRibbon": true
 }

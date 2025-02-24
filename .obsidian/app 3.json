@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
+}

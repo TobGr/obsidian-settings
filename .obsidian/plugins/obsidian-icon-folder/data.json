@@ -31,11 +31,19 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "game info": {
+  "the duel/images": {
+    "iconName": "LiImages",
+    "iconColor": "#8c3b3b"
+  },
+  "the duel/game info": {
     "iconName": "LiGamepad",
     "iconColor": "#00e1ff"
   },
-  "images": {
+  "the castle/game info": {
+    "iconName": "LiGamepad",
+    "iconColor": "#00ffff"
+  },
+  "the castle/images": {
     "iconName": "LiImages",
     "iconColor": "#8c3b3b"
   }
