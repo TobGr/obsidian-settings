@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "LiImages",
       "LiGamepad"
     ],
@@ -46,5 +47,13 @@
   "the castle/images": {
     "iconName": "LiImages",
     "iconColor": "#8c3b3b"
+  },
+  "the castle/todos": {
+    "iconName": "LiListTodo",
+    "iconColor": "#ffea00"
+  },
+  "the duel/todos": {
+    "iconName": "LiListTodo",
+    "iconColor": "#fcf403"
   }
 }

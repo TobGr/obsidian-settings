@@ -1,10 +1,4 @@
 {
-  "theme": "obsidian",
-  "accentColor": "#ad2539",
-  "interfaceFontFamily": "Inter",
-  "textFontFamily": "Arial",
-  "baseFontSize": 16,
   "cssTheme": "Tokyo Night",
-  "showViewHeader": true,
-  "showRibbon": true
+  "accentColor": "#b11039"
 }
