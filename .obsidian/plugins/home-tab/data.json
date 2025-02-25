@@ -1,0 +1,55 @@
+{
+  "logoType": "none",
+  "logo": {
+    "lucideIcon": "air-vent",
+    "imagePath": "games/the castle/images/fae7e5db8202972df1f3bcc904e452af.jpg",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Home",
+  "customFont": "custom",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 6,
+  "showbookmarkedFiles": true,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "learning/game dev/pixel art/references.canvas",
+      "timestamp": 1740515892839
+    },
+    {
+      "filepath": "learning/game dev/pixel art/images/64ee92e981625078e43fec7d5ed765c2.jpg",
+      "timestamp": 1740515892251
+    },
+    {
+      "filepath": "learning/game dev/pixel art/images/6960fc65b1a01c2af70c76acea9ae2d2.jpg",
+      "timestamp": 1740515855684
+    },
+    {
+      "filepath": "learning/game dev/pixel art/images/75466f908cf8e74c281f6b1e379358e9.jpg",
+      "timestamp": 1740515836651
+    },
+    {
+      "filepath": "learning/game dev/pixel art/images/fae7e5db8202972df1f3bcc904e452af.jpg",
+      "timestamp": 1740515822888
+    }
+  ],
+  "bookmarkedFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false,
+  "showOmnisearchExcerpt": true,
+  "font": "Marlett"
+}

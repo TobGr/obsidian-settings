@@ -5,5 +5,8 @@
   "obsidian-emoji-toolbar",
   "editing-toolbar",
   "calendar",
-  "templater-obsidian"
+  "templater-obsidian",
+  "settings-search",
+  "home-tab",
+  "cmdr"
 ]

@@ -14,5 +14,22 @@
       ],
       "key": " "
     }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
   ]
 }

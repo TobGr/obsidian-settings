@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiListTodo",
-      "LiImages",
-      "LiGamepad"
+      "🎮",
+      "🔎",
+      "📖",
+      "⚙",
+      "😸"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,28 +34,33 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "the duel/images": {
-    "iconName": "LiImages",
-    "iconColor": "#8c3b3b"
-  },
-  "the duel/game info": {
+  "daily notes": "📅",
+  "templates": "⚙",
+  "projects": "💼",
+  "projects/games": "🎮",
+  "projects/games/the duel": "⚔",
+  "projects/games/the castle": "🏰",
+  "projects/games/the duel/game info": {
     "iconName": "LiGamepad",
     "iconColor": "#00e1ff"
   },
-  "the castle/game info": {
+  "projects/games/the duel/todos": {
+    "iconName": "LiListTodo",
+    "iconColor": "#fcf403"
+  },
+  "projects/games/the castle/game info": {
     "iconName": "LiGamepad",
     "iconColor": "#00ffff"
   },
-  "the castle/images": {
-    "iconName": "LiImages",
-    "iconColor": "#8c3b3b"
-  },
-  "the castle/todos": {
+  "projects/games/the castle/todos": {
     "iconName": "LiListTodo",
     "iconColor": "#ffea00"
   },
-  "the duel/todos": {
-    "iconName": "LiListTodo",
-    "iconColor": "#fcf403"
+  "personal stuff": "😸",
+  "learning": "🔎",
+  "learning/game dev": "🎮",
+  "learning/game dev/pixel art/images": {
+    "iconName": "LiImages",
+    "iconColor": "#8c3b3b"
   }
 }

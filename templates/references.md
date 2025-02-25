@@ -5,5 +5,5 @@
 
 
 
-#### todos 
-- [ ] <% tp.file.cursor() %>
+#### references 
+1. <% tp.file.cursor() %>
